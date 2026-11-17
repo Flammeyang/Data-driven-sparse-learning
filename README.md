@@ -10,5 +10,5 @@ libpysal==4.8.1
 geopandas==0.13.2
 shapely==2.0.7
 scikit-learn==1.3.2
-Seed==80
+Randam seed:80
 
