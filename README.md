@@ -2,8 +2,8 @@
 
 # Validated Windows environment: Python 3.8.20, CUDA 11.7, cuDNN 8.5.0.
 # Use the matching PyTorch build for the selected CPU/CUDA environment.
-torch==1.13.0
-numpy==1.24.4
+ torch==1.13.0
+ numpy==1.24.4
 pandas==2.0.3
 scipy==1.10.1
 openpyxl==3.1.5
